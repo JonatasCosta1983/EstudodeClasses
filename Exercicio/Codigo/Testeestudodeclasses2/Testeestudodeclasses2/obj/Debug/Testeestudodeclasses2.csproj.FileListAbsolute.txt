@@ -1,0 +1,9 @@
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\bin\Debug\Testeestudodeclasses2.exe.config
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\bin\Debug\Testeestudodeclasses2.exe
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\bin\Debug\Testeestudodeclasses2.pdb
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.csprojAssemblyReference.cache
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.Properties.Resources.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.csproj.GenerateResource.cache
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.csproj.CoreCompileInputs.cache
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.exe
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.pdb

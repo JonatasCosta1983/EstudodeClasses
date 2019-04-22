@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace EstudodeClasses.inicio
+{
+    public partial class frmSplash : Form
+    {
+        public frmSplash()
+        {
+            InitializeComponent();
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TrmSplash_Tick(object sender, EventArgs e)
+        {
+            this.Close(); // Instância que fecha o objeto.
+        }
+
+        private void FrmSplash_Load(object sender, EventArgs e)
+        {
+            trmSplash.Enabled = true; // Quando ele ler a instância acima, o time(trmSplash) vai ser verdadeiro.
+        }
+    }
+}

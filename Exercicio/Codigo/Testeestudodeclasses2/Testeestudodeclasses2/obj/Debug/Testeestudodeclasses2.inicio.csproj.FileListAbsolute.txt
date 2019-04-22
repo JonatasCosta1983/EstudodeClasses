@@ -1,0 +1,36 @@
+D:\Github\EstudodeClasses\Teste2\Programa final\Testeestudodeclasses2.exe.config
+D:\Github\EstudodeClasses\Teste2\Programa final\Testeestudodeclasses2.exe
+D:\Github\EstudodeClasses\Teste2\Programa final\Testeestudodeclasses2.pdb
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.csprojAssemblyReference.cache
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.Properties.Resources.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.csproj.GenerateResource.cache
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.csproj.CoreCompileInputs.cache
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.exe
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.pdb
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash1.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash2.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash3.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash4.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash5.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash6.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash7.resources
+D:\Github\EstudodeClasses\Teste2\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash8.resources
+D:\EstudodeClasses\Exercício\Programa final\Testeestudodeclasses2.exe.config
+D:\EstudodeClasses\Exercício\Programa final\Testeestudodeclasses2.exe
+D:\EstudodeClasses\Exercício\Programa final\Testeestudodeclasses2.pdb
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.csprojAssemblyReference.cache
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash1.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash2.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash3.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash4.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash5.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash6.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash7.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.frmSplash8.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.Properties.Resources.resources
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.csproj.GenerateResource.cache
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.inicio.csproj.CoreCompileInputs.cache
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.exe
+D:\EstudodeClasses\Exercício\Código\Testeestudodeclasses2\Testeestudodeclasses2\obj\Debug\Testeestudodeclasses2.pdb

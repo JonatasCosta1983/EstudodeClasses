@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace EstudodeClasses.inicio
+
+{
+    static class Program // Aqui inicia o sistema, instancia da classe Program.
+    {
+        /// <summary>
+        /// Ponto de entrada principal para o aplicativo.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {    //Aqui e feita toda a verificacao da IDE, antes de iniciar o programa(form1).
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false); // Aqui termina a verificacao.
+
+            // Aqui antes de iniciar o programa, voce pode adicionar um splash.
+            // Sempre tem que colocar um nome individual para diferenciar um formulario de outro.
+            // Exemplo de nome frmSplash.
+
+            
+            frmSplash splash = new frmSplash(); // Aqui o sistema esta chamando o splash...
+            splash.ShowDialog(); // chamando o dialogo antes do sistema.
+
+
+            Application.Run(new Form1()); // Esse e o inicio do meu programa.
+        }
+    }
+}
