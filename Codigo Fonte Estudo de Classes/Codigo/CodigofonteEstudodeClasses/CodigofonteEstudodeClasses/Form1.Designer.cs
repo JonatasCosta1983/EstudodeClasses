@@ -1,4 +1,4 @@
-﻿namespace CodigofonteEstudodeClasses
+﻿namespace CodigofonteEstudodeClasses.inicio
 {
     partial class Form1
     {
