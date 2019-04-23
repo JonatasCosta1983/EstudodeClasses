@@ -1,0 +1,10 @@
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Programa Final\CodigofonteEstudodeClasses.exe.config
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Programa Final\CodigofonteEstudodeClasses.exe
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Programa Final\CodigofonteEstudodeClasses.pdb
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.inicio.csprojAssemblyReference.cache
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.inicio.frmSplash.resources
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.inicio.Properties.Resources.resources
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.inicio.csproj.GenerateResource.cache
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.inicio.csproj.CoreCompileInputs.cache
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.exe
+D:\EstudodeClasses\Codigo Fonte Estudo de Classes\Codigo\CodigofonteEstudodeClasses\CodigofonteEstudodeClasses\obj\Debug\CodigofonteEstudodeClasses.pdb
